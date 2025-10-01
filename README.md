@@ -52,4 +52,4 @@ I’m originally from Peru and now living in Canada, where I’m exploring new o
 
 </p>
 
-
+![Snake animation](https://github.com/rodrigoanasco/rodrigoanasco/blob/output/github-contribution-grid-snake.svg)
