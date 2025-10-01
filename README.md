@@ -1,13 +1,12 @@
 <h1>Hi 👋, I'm Rodrigo</h1>
 <h3>A Computer Science student at Simon Fraser University, passionate about AI, data science, and full-stack development.</h3>
+I’m originally from Peru and now living in Canada, where I’m exploring new opportunities and challenges. I like to stay curious and push myself in different areas (whether that’s sports, volunteering, or creative projects). I’m driven by the idea of building things that make a positive impact, while also enjoying the process of learning and connecting with people from different backgrounds.
 
 - 🔭 I’m currently working on **SubVision Robotics – Zima Project (Neural-inspired path planning for a hull-cleaning robot)**
 
 - 🌱 I’m currently learning **Big Data (Spark, Hadoop), Computer Vision, Neural networks for path planning**
 
-- 👯 I’m looking to collaborate on **AI & Machine Learning Projects (computer vision, robotics, NLP)**
-
-- 📫 How to reach me **ro.anasco.s@gmail.com**
+- 🤙 I’m looking to collaborate on **AI & Machine Learning Projects (computer vision, robotics, NLP)**
 
 - ⚡ Fun fact **I like sports, videogames and I truly watch a lot of YouTube**
 
@@ -15,6 +14,8 @@
 
 <h3>Connect with me:</h3>
 <p>
+  Email: ro.anasco.s@gmail.com or raa69@sfu.ca
+  
 <a href="https://linkedin.com/in/rodrigo-anasco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rodrigo-anasco" height="30" width="40" /></a>
 <a href="https://instagram.com/rodr_1201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rodr_1201" height="30" width="40" /></a>
 <a href="https://discord.gg/Roddro12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Roddro12" height="30" width="40" /></a>
