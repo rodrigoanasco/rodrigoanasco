@@ -5,7 +5,9 @@ I’m originally from Peru and now living in Canada, where I’m exploring new o
 
 ---
 
-- 🔭 I’m currently working on **SubVision Robotics – Zima Project (Neural-inspired path planning for a hull-cleaning robot)**  
+- 🔭 I’m currently working on:
+  - **Unify - A phone app created to support immigrants and newcomers to Canada**  
+  - **SubVision Robotics – Zima Project (Neural-inspired path planning for a hull-cleaning robot)** 
 - 🌱 I’m currently learning **Big Data (Spark, Hadoop), Computer Vision, Neural networks for path planning**  
 - 🤙 I’m looking to collaborate on **AI & Machine Learning Projects (computer vision, robotics, NLP)**  
 - ⚡ Fun fact: **I like sports, videogames and I truly watch a lot of YouTube**  
