@@ -3,6 +3,7 @@
 
 I’m originally from Peru and now living in Canada, where I’m exploring new opportunities and challenges. I like to stay curious and push myself in different areas (whether that’s sports, volunteering, or creative projects). I’m driven by the idea of building things that make a positive impact, while also enjoying the process of learning and connecting with people from different backgrounds.
 
+Come visit my webpage! https://rodrigo-anasco.vercel.app/
 ---
 
 - 🔭 I’m currently working on:
