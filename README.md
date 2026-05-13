@@ -1,17 +1,17 @@
 <h1>Hi 👋, I'm Rodrigo</h1>
-<h3>A Computer Science student at Simon Fraser University, passionate about AI, data science, and full-stack development.</h3>
+<h3>A Computer Science student at Simon Fraser University, focused on AI, machine learning, software engineering, and data-driven systems.</h3>
 
-I’m originally from Peru and now living in Canada, where I’m exploring new opportunities and challenges. I like to stay curious and push myself in different areas (whether that’s sports, volunteering, or creative projects). I’m driven by the idea of building things that make a positive impact, while also enjoying the process of learning and connecting with people from different backgrounds.
+I’m originally from Peru and now living in Canada, where I’m growing as both a developer and researcher. I enjoy building projects that combine strong technical foundations with real-world impact, especially in AI, machine learning, and full-stack development. I’m particularly interested in applying intelligent systems to meaningful problems, whether through research, product development, or data-driven applications. Outside of tech, I enjoy sports, volunteering, and challenging myself through new experiences and creative projects.
 
 Come visit my webpage! https://rodrigo-anasco.vercel.app/
 ---
 
 - 🔭 I’m currently working on:
-  - **Unify - A phone app created to support immigrants and newcomers to Canada**  
-  - **SubVision Robotics – Zima Project (Neural-inspired path planning for a hull-cleaning robot)** 
-- 🌱 I’m currently learning **Big Data (Spark, Hadoop), Computer Vision, Neural networks for path planning**  
-- 🤙 I’m looking to collaborate on **AI & Machine Learning Projects (computer vision, robotics, NLP)**  
-- ⚡ Fun fact: **I like sports, videogames and I truly watch a lot of YouTube**  
+  - **Machine Learning SFU Lab – Conducting research in machine learning and AI, with a focus on developing and evaluating intelligent methods for real-world problems**
+  - **Unify – Building product and software solutions for a mobile platform that supports immigrants and newcomers to Canada through personalized, accessible digital experiences**
+- 🌱 I’m currently learning **Machine Learning, AI systems, Computer Vision, and Big Data technologies such as Spark and Hadoop**
+- 🤙 I’m looking to collaborate on **AI, Machine Learning, and Software Engineering projects, especially in computer vision, NLP, intelligent systems, and applied data science**
+- ⚡ Fun fact: **I like sports, videogames, and I probably watch more YouTube than I should**  
 
 ---
 
@@ -52,6 +52,7 @@ Come visit my webpage! https://rodrigo-anasco.vercel.app/
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
 
 </p>
 
