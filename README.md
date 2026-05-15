@@ -3,6 +3,7 @@
 
 I’m originally from Peru and now living in Canada, where I’m growing as both a developer and researcher. I enjoy building projects that combine strong technical foundations with real-world impact, especially in AI, machine learning, and full-stack development. I’m particularly interested in applying intelligent systems to meaningful problems, whether through research, product development, or data-driven applications. 
 
+<br>
 Outside of tech, I enjoy sports, volunteering, and challenging myself through new experiences and creative projects.
 
 Come visit my webpage! https://rodrigo-anasco.vercel.app/
