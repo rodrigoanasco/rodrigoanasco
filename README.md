@@ -5,7 +5,7 @@ I’m originally from Peru and now living in Canada, where I’m growing as both
 
 Outside of tech, I enjoy sports, nature, volunteering, and challenging myself through new experiences and creative projects.
 
-Come visit my webpage! https://rodrigo-anasco.vercel.app/
+
 ---
 
 - 🔭 I’m currently working on:
@@ -15,7 +15,7 @@ Come visit my webpage! https://rodrigo-anasco.vercel.app/
 - 🤙 I’m looking to collaborate on **AI, Machine Learning, and Software Engineering projects, especially in computer vision, NLP, intelligent systems, and applied data science**
 - ⚡ Fun fact: **I like sports, videogames, and I probably watch more YouTube than I should**  
 
----
+--- 
 
 <h3>📫 How to reach me:</h3>
 
@@ -66,3 +66,8 @@ Come visit my webpage! https://rodrigo-anasco.vercel.app/
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rodrigoanasco/rodrigoanasco/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/rodrigoanasco/rodrigoanasco/output/github-contribution-grid-snake.svg" />
 </picture>
+
+---
+
+<h1>Come visit my webpage to learn more about me and my projects! <br>
+https://rodrigo-anasco.vercel.app/</h1>
