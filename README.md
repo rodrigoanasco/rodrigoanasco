@@ -1,19 +1,40 @@
-<h1>Hi 👋, I'm Rodrigo</h1>
-<h3>A Computer Science student at Simon Fraser University, focused on AI, machine learning, software engineering, and data-driven systems.</h3>
+<h1>Hey there! I'm Rodrigo 👋</h1>
+<h3>Computer Science @ Simon Fraser University | Software Engineering • AI • Systems & Automation</h3>
 
-I’m originally from Peru and now living in Canada, where I’m growing as both a developer and researcher. I enjoy building projects that combine strong technical foundations with real-world impact, especially in AI, machine learning, and full-stack development. I’m particularly interested in applying intelligent systems to meaningful problems, whether through research, product development, or data-driven applications. 
+I'm a Computer Science student at **Simon Fraser University**, originally from Peru and currently based in Vancouver, Canada.
 
-Outside of tech, I enjoy sports, nature, volunteering, and challenging myself through new experiences and different projects.
+I enjoy building technology that solves real problems, whether that's developing mobile applications, automating workflows, or exploring how AI can make systems smarter.
 
+My experience spans **software engineering, applied machine learning, research, and product development**. I'm particularly interested in understanding how systems work together, designing scalable solutions, and turning complex ideas into practical products.
+
+I like exploring the bigger picture beyond the code, from system architecture and technical decisions to how technology creates value for people and businesses.
+
+Outside of tech, I enjoy sports, nature, volunteering, and exploring new places. I'm always looking for something new to learn or build.
 
 ---
 
-- 🔭 I’m currently working on:
-  - **Machine Learning SFU Lab – Conducting research in machine learning and AI, with a focus on developing and evaluating intelligent methods for real-world problems**
-  - **Unify – Building product and software solutions for a mobile platform that supports immigrants and newcomers to Canada through personalized, accessible digital experiences**
-- 🌱 I’m currently learning **Machine Learning, AI systems, Computer Vision, and Big Data technologies such as Spark and Hadoop**
-- 🤙 I’m looking to collaborate on **AI, Machine Learning, and Software Engineering projects, especially in computer vision, NLP, intelligent systems, and applied data science**
-- ⚡ Fun fact: **I like sports, videogames, and I probably watch more YouTube than I should**  
+### 🛠️ What I'm Currently Working On
+
+- **FISPAN**: Improving operational systems through workflow automation, API integrations, and process optimization.
+- **NeuroOpticDX**: Developing mobile applications with React Native, Expo, and TypeScript, focusing on functionality, performance, and user experience.
+
+### 🔬 Previous Work & Research
+
+- **SFU Machine Learning Lab** — Contributed to research involving multilingual argumentation, natural language processing, and computational analysis across languages.  
+  📄 [Explore my research paper on OpenReview](https://openreview.net/forum?id=eVlJ1fn4g4)
+
+- **Unify Social | Enactus SFU** — Led software development for a mobile platform supporting newcomers to Canada, integrating personalized experiences, community features, and AI-powered assistance.
+
+### 🧠 What I'm Exploring
+
+- **Software Architecture & System Design**: Designing reliable, scalable, and maintainable systems.
+- **Applied AI & Machine Learning**: Exploring computer vision, NLP, and intelligent applications.
+- **Automation & Integrations**: Connecting tools, services, and APIs to create efficient workflows.
+- **Product & Solutions Engineering**: Bridging technical implementation, user needs, and real-world business challenges.
+
+### 🎮 Beyond the Code
+
+I enjoy sports (currently training BJJ), exploring nature, traveling and going to the beach. There's usually a side project on my mind, and I probably spend more time on YouTube than I should. 😅
 
 --- 
 
