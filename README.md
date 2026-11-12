@@ -23,7 +23,7 @@ Outside of tech, I enjoy sports, nature, volunteering, and exploring new places.
 - **SFU Machine Learning Lab** — Contributed to research involving multilingual argumentation, natural language processing, and computational analysis across languages.  
   📄 [Explore my research paper on OpenReview](https://openreview.net/forum?id=eVlJ1fn4g4)
 
-- **Unify Social | Enactus SFU** — Led software development for a mobile platform supporting newcomers to Canada, integrating personalized experiences, community features, and AI-powered assistance.
+- **Unify Social** — Developed a mobile platform to support Canadian newcomers' onboarding process; integrating personalized experiences, community features, and AI-powered assistance.
 
 ### 🧠 What I'm Exploring
 
